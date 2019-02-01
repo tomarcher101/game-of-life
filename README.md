@@ -3,6 +3,12 @@
 This is my BBC job application where I have been asked to make the game of life.
 I have impleneted the game of life in the command line where it is visulised in an ascii grid.
 
+## Assumptions
+
+- You guys mention in the brief that it takes place on an infinite grid. I have assumed that you guys are okay with me working on a finite grid.
+- I have assumed you might like to choose the dimensions of the grid.
+- I have assumed that you would like me to visualise the process, which I have done in the command line.
+
 ## How to use it.
 
 1. Copy the repo onto your machine.
