@@ -24,5 +24,6 @@ I have impleneted the game of life in the command line where it is visulised in 
    - Type "end" to finish inputting coords.
 
 5. Press ENTER to iterate the grid into its next state.
+   - The grid will print after each time you press ENTER (iterating the state).
 
 6. Type "end" to end the program.
